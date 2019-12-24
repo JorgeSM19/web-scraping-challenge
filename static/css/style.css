@@ -1,0 +1,63 @@
+.col-12 {
+    background-color: rgb(234, 234, 234);
+    border-radius: 10px 10px 10px 10px;
+    padding: 60px 60px 60px 60px;
+    text-align: center;
+    font-style: strong;
+    margin: 40px 0px 40px 0px;
+    ;
+}
+
+h1 {
+    font-size: 45px !important;
+}
+
+.news {
+    font-style: strong;
+}
+
+.col-5 {
+    background-color: rgb(235, 202, 202);
+    border-radius: 10px 10px 10px 10px;
+    margin: 40px 0px 40px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+#Image {
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px 0px 20px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left!important;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: rgb(23, 159, 149);
+    color: white;
+}
+
+table {
+    border: none!important;
+}
+
+#Data {
+    align-content: right!important;
+}
+
+.col-lg-6 {
+    align-content: right!important;
+}
+
+#cabeza {
+    background-color: rgb(23, 159, 149);
+    color: white;
+}
